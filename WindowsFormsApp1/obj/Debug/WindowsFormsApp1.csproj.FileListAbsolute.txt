@@ -1,0 +1,17 @@
+C:\Users\ÖMER\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\ÖMER\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ÖMER\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\ÖMER\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\ÖMER\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Interop.WMPLib.dll
+C:\Users\ÖMER\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ÖMER\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Interop.WMPLib.dll
+C:\Users\ÖMER\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\ÖMER\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Users\ÖMER\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Video.resources
+C:\Users\ÖMER\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Hauptmonitor.resources
+C:\Users\ÖMER\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Lehrreich.exe.config
+C:\Users\ÖMER\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Lehrreich.exe
+C:\Users\ÖMER\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Lehrreich.pdb
+C:\Users\ÖMER\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Lehrreich.Properties.Resources.resources
+C:\Users\ÖMER\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Lehrreich.exe
+C:\Users\ÖMER\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Lehrreich.pdb
